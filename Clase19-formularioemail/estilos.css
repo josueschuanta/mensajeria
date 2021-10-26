@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.formulario{
+
+    width: 30%;
+    border: 2px solid red;
+    margin: auto;
+    padding: 20px;
+    margin-top: 30px;
+}
+
+label{
+    width: 100%;
+
+}
+.inputs{
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+h2{
+    text-align: center;
+    padding-bottom: 10px;
+}
+.boton{
+    padding: 5px 10px;
+    display: block;
+    margin: auto;
+    cursor: pointer;
+}
